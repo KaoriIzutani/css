@@ -1,0 +1,25 @@
+		b {
+			color: #F00
+			}
+		
+		h1, h2, h3 {
+			color: #3366ff
+			}
+		
+		#para1 {
+			color:#009933; 
+			font-size: 20px;
+			}
+			
+			/* You need the "#" to identify the tag as an id. Otherwise, HTML thinks it's an 
+			element and your CSS code will not work.*/
+		
+		.paraClass1 {
+			color: #009;
+			}
+		
+		.paraClass2 {
+			background-color:#FC0;
+			}
+
+		/* The "." identifies a class you want to apply your CSS styling to.*/

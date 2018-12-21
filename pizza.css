@@ -1,0 +1,25 @@
+h1 {
+		font-family: 'Baloo', serif;
+		font-size: 48px;
+		}
+h4 {
+		font-family: 'Baloo', serif;
+		font-size: 32px;
+		width: 200px;
+		} 
+	
+button {
+	position: relative;
+	margin-top: 50px;
+	}	
+
+div.menu  {
+	height: 300px;
+	width: 200px;
+}
+
+	
+
+
+	
+
