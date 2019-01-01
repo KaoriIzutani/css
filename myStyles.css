@@ -1,9 +1,15 @@
 		b {
-			color: #F00
+			color: #F00;
 			}
 		
 		h1, h2, h3 {
-			color: #3366ff
+			color: #3366ff;
+			font-family:"Comic Sans MS"; /*When picking a font, make sure it is a font that's
+			already installed in the PC, otherwise, it won't work. Comic Sans MS font works
+			with most Windows PC's*/
+			  font-weight: bold;
+			  font-size: 20px;
+			  text-decoration: underline;
 			}
 		
 		#para1 {
@@ -23,3 +29,20 @@
 			}
 
 		/* The "." identifies a class you want to apply your CSS styling to.*/
+		a:hover {
+			background-color:#F90;
+			font-size:36px;
+		}
+		
+		p:first-letter {
+			font-size:36px;
+		}
+		
+		p:first-line {
+			background-color:#C90;
+		}
+		
+		.myBorder {
+		border:thick black solid;
+		padding: 15px;
+		}
